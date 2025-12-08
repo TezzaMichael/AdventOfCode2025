@@ -22,8 +22,8 @@ It’s a fun yearly tradition and a great excuse to sharpen my Rust skills while
 - **Day 5**: [Cafeteria](https://adventofcode.com/2025/day/5) 🌟🌟
 - **Day 6**: [Trash Compactor](https://adventofcode.com/2025/day/6) 🌟🌟
 - **Day 7**: [Laboratories](https://adventofcode.com/2025/day/7) 🌟🌟
+- **Day 8**: [Playground](https://adventofcode.com/2025/day/8) 
 <!--
-- **Day 8**: [??](https://adventofcode.com/2025/day/8) 
 - **Day 9**: [??](https://adventofcode.com/2025/day/9) 
 - **Day 10**: [??](https://adventofcode.com/2025/day/10) 
 - **Day 11**: [??](https://adventofcode.com/2025/day/11) 
