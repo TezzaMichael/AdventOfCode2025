@@ -23,7 +23,7 @@ It’s a fun yearly tradition and a great excuse to sharpen my Rust skills while
 - **Day 6**: [Trash Compactor](https://adventofcode.com/2025/day/6) 🌟🌟
 - **Day 7**: [Laboratories](https://adventofcode.com/2025/day/7) 🌟🌟
 - **Day 8**: [Playground](https://adventofcode.com/2025/day/8) 🌟🌟
-- **Day 9**: [Movie Theater](https://adventofcode.com/2025/day/9) 🌟
+- **Day 9**: [Movie Theater](https://adventofcode.com/2025/day/9) 🌟🌟
 - **Day 10**: [Factory](https://adventofcode.com/2025/day/10) 🌟
 - **Day 11**: [Reactor](https://adventofcode.com/2025/day/11) 🌟🌟
 - **Day 12**: [Christmas Tree Farm](https://adventofcode.com/2025/day/12) 🌟
